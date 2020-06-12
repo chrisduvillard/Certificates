@@ -13,6 +13,9 @@
   - Sequences, Time Series and Prediction
 
 - Data Analysis with Pandas and Python
+- Databases and SQL for Data Science
+
+- Learning How to Learn: Powerful mental tools to help you master tough subjects
 
 ### Author
 Christophe Duvillard
