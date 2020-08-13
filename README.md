@@ -19,5 +19,8 @@
 
 - Mathematics for Machine Learning: Linear Algebra
 
+- Fundamentals of Reinforcement Learning
+
+
 ### Author
 Christophe Duvillard
