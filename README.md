@@ -13,7 +13,7 @@
   - Sequences, Time Series and Prediction
 
 - Investment Management with Python and Machine Learning
-  - 1) Introduction to Portfolio Construction and Analysis with Python
+  1) Introduction to Portfolio Construction and Analysis with Python
  
 - Data Analysis with Pandas and Python
 
