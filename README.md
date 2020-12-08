@@ -12,7 +12,11 @@
   - Natural Language Processing in TensorFlow
   - Sequences, Time Series and Prediction
 
+- Investment Management with Python and Machine Learning
+  - 1) Introduction to Portfolio Construction and Analysis with Python
+ 
 - Data Analysis with Pandas and Python
+
 - Databases and SQL for Data Science
 
 - Learning How to Learn: Powerful mental tools to help you master tough subjects
