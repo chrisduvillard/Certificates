@@ -15,6 +15,7 @@
 - Investment Management with Python and Machine Learning (EDHEC Business School)
   1) Introduction to Portfolio Construction and Analysis with Python
   2) Advanced Portfolio Construction and Analysis with Python
+  3) Python and Machine Learning for Asset Management
  
 - Data Analysis with Pandas and Python
 
