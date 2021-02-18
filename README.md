@@ -27,6 +27,7 @@
 
 - Fundamentals of Reinforcement Learning
 
+- Introduction to Blockchain Technologies
 
 ### Author
 Christophe Duvillard
