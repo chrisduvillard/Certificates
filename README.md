@@ -26,6 +26,7 @@
 - Mathematics for Machine Learning: Linear Algebra
 
 - Fundamentals of Reinforcement Learning
+  1) Sample-based Learning Methods
 
 - Introduction to Blockchain Technologies
 
