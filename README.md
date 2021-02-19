@@ -4,7 +4,18 @@
 ## Contents
 
 - Neural Networks and Deep Learning
+
 - Improving Deep Neural Network
+
+- Data Analysis with Pandas and Python
+
+- Databases and SQL for Data Science
+
+- Learning How to Learn: Powerful mental tools to help you master tough subjects
+
+- Mathematics for Machine Learning: Linear Algebra
+
+- Introduction to Blockchain Technologies
 
 - TensorFlow in Practice (deeplearning.ai)
   1) Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
@@ -16,19 +27,10 @@
   1) Introduction to Portfolio Construction and Analysis with Python
   2) Advanced Portfolio Construction and Analysis with Python
   3) Python and Machine Learning for Asset Management
- 
-- Data Analysis with Pandas and Python
-
-- Databases and SQL for Data Science
-
-- Learning How to Learn: Powerful mental tools to help you master tough subjects
-
-- Mathematics for Machine Learning: Linear Algebra
 
 - Fundamentals of Reinforcement Learning
   1) Sample-based Learning Methods
 
-- Introduction to Blockchain Technologies
 
 ### Author
 Christophe Duvillard
