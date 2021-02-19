@@ -17,6 +17,8 @@
 
 - Introduction to Blockchain Technologies
 
+- Welcome to Game Theory
+
 - TensorFlow in Practice (deeplearning.ai)
   1) Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
   2) Convolutional Neural Networks in TensorFlow
