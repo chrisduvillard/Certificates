@@ -29,6 +29,7 @@
   1) Introduction to Portfolio Construction and Analysis with Python
   2) Advanced Portfolio Construction and Analysis with Python
   3) Python and Machine Learning for Asset Management
+  4) Python and Machine-Learning for Asset Management with Alternative Data Sets
 
 - Fundamentals of Reinforcement Learning
   1) Sample-based Learning Methods
