@@ -3,6 +3,7 @@
 
 ## Contents
 
+### Courses
 - Neural Networks and Deep Learning
 
 - Improving Deep Neural Network
