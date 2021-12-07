@@ -34,6 +34,7 @@
 - Fundamentals of Reinforcement Learning
   1) Sample-based Learning Methods
 
+### Projects
 - XG-Boost 101: Used Cars Price Prediction
 
 ### Author
