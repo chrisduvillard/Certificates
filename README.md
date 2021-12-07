@@ -37,6 +37,7 @@
 
 ### Projects
 - XG-Boost 101: Used Cars Price Prediction
+- Unsupervised Machine Learning for Customer Segmentation
 
 ### Author
 Christophe Duvillard
